@@ -3,7 +3,7 @@
   $hname = 'localhost';
   $uname = 'root';
   $pass = '';
-  $db = 'weddingknots';
+  $db = '20_WeddingKnots';
 
   $con = mysqli_connect($hname,$uname,$pass,$db);
 
